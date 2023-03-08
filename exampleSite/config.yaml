@@ -190,6 +190,10 @@ params:
         content:
             enabled: true
 
+    yuruChara:
+        enabled: true
+        live2d_widget: https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js
+
 ### Custom menu
 ### See https://docs.stack.jimmycai.com/configuration/custom-menu.html
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
