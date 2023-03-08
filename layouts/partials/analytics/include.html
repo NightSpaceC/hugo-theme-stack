@@ -1,0 +1,3 @@
+{{ if .Site.Params.analytics.enabled }}
+    {{ partial (printf "analytics/provider/%s" .Site.Params.analytics.provider) . }}
+{{ end }}

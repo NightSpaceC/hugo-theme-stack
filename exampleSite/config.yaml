@@ -148,6 +148,13 @@ params:
         cusdis:
             host:
             id:
+
+    analytics:
+        enabled: true
+        provider: cloudflare
+        cloudflare:
+            token:
+
     widgets:
         homepage:
             - type: search

@@ -111,6 +111,12 @@ params:
             host:
             id:
 
+    analytics:
+        enabled: false
+        provider: cloudflare
+        cloudflare:
+            token:
+
     widgets:
         homepage: []
         page: []
