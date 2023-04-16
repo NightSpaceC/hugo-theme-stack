@@ -199,7 +199,7 @@ params:
 
     yuruChara:
         enabled: true
-        live2d_widget: https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js
+        live2d_widget: https://gcore.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js
 
 ### Custom menu
 ### See https://docs.stack.jimmycai.com/configuration/custom-menu.html

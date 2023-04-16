@@ -71,7 +71,7 @@ params:
             visitor:
             avatar:
             emoji:
-                - https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo
+                - https://gcore.jsdelivr.net/gh/walinejs/emojis/weibo
             requiredMeta:
                 - name
                 - email
@@ -149,4 +149,4 @@ params:
             enabled: true
     yuruChara:
         enabled: true
-        live2d_widget: https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js
+        live2d_widget: https://gcore.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js
